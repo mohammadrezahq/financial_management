@@ -1,0 +1,5 @@
+@import 'Shabnam/shabnam.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
